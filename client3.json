@@ -1,0 +1,6 @@
+{
+    "server": {
+        "ip": "0.tcp.ap.ngrok.io",
+        "port": 18870
+    }
+}
